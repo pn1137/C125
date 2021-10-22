@@ -2,7 +2,9 @@
 
 int main(void)
 {
-	printf("Hello World!");
-	
+	printf("Hello World!\n");
+
+	printf("New feature added.\n");
+
 	return 0;
 }
