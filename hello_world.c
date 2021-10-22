@@ -7,5 +7,8 @@ int main(void)
 	printf("\"We've added a new feature!\".\n");
 	
 	printf("BOOOOOM\n");
+
+	printf("\"We've added another new feature!\".\n");
+  
 	return 0;
 }
